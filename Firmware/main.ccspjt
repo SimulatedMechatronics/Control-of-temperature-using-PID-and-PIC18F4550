@@ -1,0 +1,27 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC18F4550
+CCSVerions=5.015
+Compiler=PCH
+CCSVersion=5.015
+[Target Data]
+FileList=main.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\DriversC:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[D:\Examples\Microcontrollers PIC\Controle de Velocidade de Motor usando PID\Firmware\main]
+Type=4
+[mru-list]
+1=main.c
+[Opened Files]
+1=main.c
+2=
+3=C:\Program Files (x86)\PICC\Drivers\stdlib.h
+4=C:\Program Files (x86)\PICC\Drivers\stddef.h
+5=C:\Program Files (x86)\PICC\Drivers\string.h
+6=C:\Program Files (x86)\PICC\Drivers\ctype.h
+7=
+[main.c]
+Type=4
+[Units]
+Count=1
+1=main (main)
